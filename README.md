@@ -17,7 +17,7 @@
 
 
 ## Conclusions
-- Conclusion from the Univariate Analysis
+- Conclusion from the **Univariate Analysis**
     - Loan Status
         - 82.96 % loans were fully paid.
         - 14.17 % loans were charged off.
@@ -39,7 +39,7 @@
         - Income range 0 - 20000 has high chances of charged off.
         - Annual in come is inversely proportional charged off.
 
-- Conclusion from the Bivariate Analysis
+- Conclusion from the **Bivariate Analysis**
     - Purpose of Loan Vs Charged off
         - Small Business applicants have high chances of getting charged off.
     - Grade Vs Charged off
